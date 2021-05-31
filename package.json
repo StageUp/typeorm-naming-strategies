@@ -2,8 +2,8 @@
   "name": "typeorm-naming-strategies",
   "version": "2.0.0",
   "description": "Custom naming strategies for typeorm",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "keywords": [
     "typeorm",
     "naming",
